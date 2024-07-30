@@ -151,3 +151,7 @@ body a
     border-radius: 50%;
     margin-top: 0px;
 }
+.more:hover
+{
+    color: black;
+}
